@@ -6,7 +6,7 @@ O Dataset escolhido foi sobre cereais consumidos nos Estados Unidos.
 
 E aqui um link direto para o Dataset: https://www.kaggle.com/datasets/crawford/80-cereals
 
-Em breve deixarei um link aqui com os insights que consegui desses dados.
+Deixarei um link aqui com os insights que consegui desses dados: https://medium.com/@VitorMello./uma-an%C3%A1lise-sobre-o-mercado-atual-de-cerais-4cf36d5ec6c7
 
 ## Algumas observações a fazer:
 
