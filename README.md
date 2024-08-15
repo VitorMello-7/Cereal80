@@ -1,5 +1,5 @@
 # Cereal80
-A ideia desse projeto foi botar em prática meu aprendizado em ciência de dados, utilizando Python no Google Colab.
+A ideia desse projeto foi botar em prática meu aprendizado em análise de dados, utilizando Python no Google Colab.
 
 O Dataset escolhido foi sobre cereais consumidos nos Estados Unidos.
  Selecionei ele em um guia com os Datasets mais interessantes para iniciantes, vou deixar aqui o link: https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets/notebook
